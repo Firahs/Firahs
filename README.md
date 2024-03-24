@@ -2,7 +2,10 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="---
+### 🛑 Profile Picture Not Found
+Oops! Looks like my profile picture is missing. I might be busy hacking away! 😎
+" src="https://www.ptc.com/-/media/Images/blog/post/alm-blog/the-importance-of-cybersecurity-in-the-medtech-industry-1200.png">
 </picture>
 
 <!--
