@@ -1,4 +1,9 @@
-# Hi there, I'm MD.SHORIF MIA! 👨‍💻🔒
+
+<p align="center">
+  <img src="https://www.ptc.com/-/media/Images/blog/post/alm-blog/the-importance-of-cybersecurity-in-the-medtech-industry-1200.png" alt="Profile Picture">
+</p>
+# Hi there,
+I'm MD.SHORIF MIA! 👨‍💻🔒
 
 I'm a cybersecurity enthusiast and CTF player currently studying Computer Science and Engineering at Islamic University Bangladesh. My goal is to become a cybersecurity expert and make the digital world a safer place.
 
@@ -21,7 +26,4 @@ I'm a cybersecurity enthusiast and CTF player currently studying Computer Scienc
 
 ---
 
-<p align="center">
-  <img src="https://www.ptc.com/-/media/Images/blog/post/alm-blog/the-importance-of-cybersecurity-in-the-medtech-industry-1200.png" alt="Profile Picture" width="500">
-</p>
 
