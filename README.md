@@ -1,273 +1,324 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:0d1117,100:001a0a&text=SHORIF%20MIA&fontColor=00ff41&fontSize=70&fontAlignY=35&desc=%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Specialist&descAlignY=55&descSize=18&descColor=00ccaa&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
+
 <div align="center">
 
-# MD. Shorif Mia
+<!-- TYPING SVG -->
+<a href="https://github.com/Firahs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami+%E2%86%92+Cybersecurity+Engineer;%24+cat+%2Fetc%2Fmission+%E2%86%92+Securing+the+Digital+World;%24+nmap+-sV+--script+vuln+target+%E2%86%92+Scanning...;%24+hashcat+-m+0+-a+0+hashes.txt+%E2%86%92+Cracking..." alt="Typing SVG" />
+</a>
 
-**CSE Student &nbsp;·&nbsp; Aspiring Penetration Tester &nbsp;·&nbsp; Cybersecurity Learner**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharif--ahmed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharif-ahmed-40a260263)
-[![Twitter](https://img.shields.io/badge/Twitter-@sharif032-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sharif032)
-[![Medium](https://img.shields.io/badge/Medium-@sa21iu.cse-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sa21iu.cse)
-[![GitHub](https://img.shields.io/badge/GitHub-Firahs-181717?style=flat&logo=github&logoColor=white)](https://github.com/Firahs)
-[![CV](https://img.shields.io/badge/CV-View%20Document-4285F4?style=flat&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/10C6pjKo8_ZzvCptcBwYFdw6p4XpGe_FEqh79JQSq5zU/edit?usp=sharing)
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Firahs&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/Firahs?tab=followers">
+  <img src="https://img.shields.io/github/followers/Firahs?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/Firahs?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Firahs?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&label=Stars" alt="Stars"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+<!-- ABOUT SECTION -->
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF0cWR2MzBhY2RuaTFnazBzeDFwNjkwcnU5ZXc5MnNvY3JqMHFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 
-I'm a Computer Science and Engineering student at **Islamic University, Bangladesh**, with a focused interest in cybersecurity — particularly penetration testing, vulnerability assessment, defensive security, and security tooling.
+## `> cat /etc/about_me`
 
-Currently I'm building hands-on skills through personal projects, platform-based labs (TryHackMe, Hack The Box), and CTF participation. My work spans both offensive and defensive security, and I aim to combine strong technical foundations with practical security engineering.
+```bash
+┌──[shorif@cyberworld]─[~/profile]
+└──╼ $ neofetch
 
-- 🎓 BSc in Computer Science and Engineering — Islamic University, Bangladesh
-- 🔭 Actively building: IDS/IPS systems, security automation, and CLI tooling
-- 📚 Learning: Network security, web application exploitation, SIEM/SOC workflows
-- 🎯 Goal: Entry-level role in penetration testing or defensive security
-- 🌏 Based in Bangladesh &nbsp;|&nbsp; Open to remote opportunities
+    ╔══════════════════════════════════╗
+    ║   MD. SHORIF MIA                ║
+    ║   Cybersecurity Engineer        ║
+    ╚══════════════════════════════════╝
 
----
+    🏫 Islamic University, Bangladesh
+    🎓 Computer Science & Engineering
+    🛡️ Security Researcher & CTF Player
+    🎯 Penetration Tester
+    🐛 Bug Bounty Hunter
 
-## Featured Projects
+    CURRENT STATUS: Always learning.
+    UPTIME: 24/7 in the cyber realm.
+```
 
-### 🛡️ [Senitel — Intrusion Detection & Prevention System](https://github.com/Firahs/senitel)
-
-A production-grade IDS/IPS that integrates **Suricata**, **fail2ban**, and **iptables** with a Python-powered Telegram bot for real-time remote monitoring and automated response.
-
-| Detail | Info |
-|---|---|
-| Stack | Python 3.8+, Suricata, fail2ban, iptables, systemd |
-| Key Features | Real-time threat detection, automated IP blocking, GeoIP attribution, Telegram command panel, alert batching, offset tracking |
-| Deployment | Ubuntu 20.04+, systemd service integration |
-| Status | 🟢 Active Development (Last updated: April 2026) |
-| Docs | [User Manual](https://github.com/Firahs/senitel/blob/main/docs/user-manual.md) · [Architecture Guide](https://github.com/Firahs/senitel/blob/main/docs/suricata-ips-telegram.md) · [Lab Setup](https://github.com/Firahs/senitel/blob/main/docs/victim-lab-setup.md) |
+<br clear="right"/>
 
 ---
 
-### 🔑 [HxMod — Hash Identifier v1.0](https://github.com/Firahs/hash-identifier)
-
-A fast, fully offline CLI tool for identifying hash types and returning the corresponding **Hashcat mode numbers**. No internet required.
-
-| Detail | Info |
-|---|---|
-| Stack | Python 3.6+, zero external dependencies (stdlib only) |
-| Coverage | 100+ hash types: MD5, SHA family, NTLM, bcrypt, Argon2, PBKDF2, Kerberos, WPA, LUKS, BitLocker, JWT, and more |
-| Output Formats | Standard, Table, Detailed, JSON, CSV, Compact, Hashcat command suggestions |
-| Extras | Batch processing, database search, feature analysis, programmatic API |
-| Status | 🟢 Stable (v1.0) |
-
----
-
-## Offensive Security and VAPT
-
-I am actively developing skills in authorized penetration testing and vulnerability assessment through lab environments and learning platforms.
-
-**Current focus areas:**
-
-- Web application security — OWASP Top 10, common injection and authentication flaws
-- Network scanning and enumeration methodology
-- Privilege escalation techniques on Linux and Windows (lab environments)
-- Vulnerability assessment documentation and remediation reporting
-- Burp Suite, Nmap, Gobuster, and standard VAPT tooling
-
-> All practice is conducted in authorized lab environments (TryHackMe, Hack The Box, personal VMs). No unauthorized testing.
-
-*VAPT report samples and methodology documentation will be added as they are completed.*
-
----
-
-## Defensive Security
-
-Demonstrated and ongoing work in the defensive domain:
-
-**Built:**
-- [**Senitel IDS/IPS**](https://github.com/Firahs/senitel) — Suricata + fail2ban + Telegram bot for real-time network threat detection and automated IP blocking. Includes custom Suricata rules, systemd integration, GeoIP lookups, and health monitoring.
-
-**Actively learning:**
-- SIEM fundamentals and log analysis workflows
-- Wazuh for host-based intrusion detection
-- Network traffic analysis with Wireshark and Zeek
-- Linux hardening and security automation (iptables, auditd, fail2ban)
-- Incident response methodology and digital forensics fundamentals
-
----
-
-## Research
-
-**Current interests:**
-
-- Network intrusion detection and automated threat response
-- Hash analysis and password security — see [HxMod](https://github.com/Firahs/hash-identifier)
-- Suricata rule development and alert tuning
-- Open-source security tooling and automation
-
-*No papers have been published yet. Research notes and project documentation will be linked here as they mature.*
-
----
-
-## CTF and Competitions
-
-I participate in CTF competitions as part of my ongoing learning and skill development.
-
-**Platforms:**
-- TryHackMe — learning paths and challenge rooms
-- Hack The Box — machine walkthroughs
-
-*Verified rankings, team memberships, and writeup links will be added here. If you are running a CTF or want a team member, reach out on LinkedIn.*
-
-> Writeups are only published after a challenge is officially retired or the platform permits public solutions.
-
----
-
-## TryHackMe
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com)
-
-<!-- 
-  TryHackMe badge setup instructions:
-  
-  GitHub READMEs do not execute JavaScript, so the <script> badge tag will not render here.
-  
-  To display your live TryHackMe badge, you have two options:
-  
-  Option 1 (GitHub Action — recommended):
-    Use the DhanushNehru/tryhackme-badge-action-workflow GitHub Action.
-    It downloads your badge as a PNG and saves it to your repo assets folder.
-    Then embed it with:
-    ![TryHackMe Badge](https://raw.githubusercontent.com/Firahs/Firahs/main/assets/tryhackme-badge.png)
-    See: https://github.com/DhanushNehru/tryhackme-badge-action-workflow
-  
-  Option 2 (Static S3 image — if available for your account):
-    Replace YOUR_THM_USERNAME with your actual TryHackMe username:
-    ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)
-  
-  Your badge userPublicId (from the script tag you provided) is:
-  b9419a54635d98b1ac0aeef606f0f04e7a034e4fa3f5fda89eff8aa41d02c9273bdadaf3cf809bed05d8bd7fcf54aefb
-  
-  ACTION REQUIRED: Add your TryHackMe username to the checklist below and update this section.
--->
-
-*→ [View my TryHackMe profile](https://tryhackme.com) — update this link with your actual profile URL*
-
-**Learning focus on TryHackMe:**
-- Linux fundamentals and privilege escalation
-- Network exploitation rooms
-- Web application security paths
-- Defensive security and SOC analyst paths
-
----
-
-## Hack The Box
-
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
-
-<!-- 
-  ACTION REQUIRED: Replace the link above and add your HTB profile URL.
-  Format: https://app.hackthebox.com/profile/YOUR_HTB_USER_ID
--->
-
-*→ [View my HTB profile](https://app.hackthebox.com) — update this link with your actual profile URL*
-
-**Focus areas on HTB:**
-- Linux and Windows machine exploitation
-- Web application challenges
-- Active Directory fundamentals
-
-*Machine writeups will be published here after machines are retired.*
-
----
-
-## Writeups and Technical Blog
-
-[![Medium](https://img.shields.io/badge/Blog-@sa21iu.cse%20on%20Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sa21iu.cse)
-
-My Medium profile is at [@sa21iu.cse](https://medium.com/@sa21iu.cse). Articles and technical writeups will be linked here as they are published.
-
-**Planned content:**
-- CTF walkthroughs and machine write-ups (post-retirement)
-- Security tool tutorials and usage notes
-- Defensive security investigations and lab notes
-- Python scripting for security automation
-
----
-
-## Skills and Tools
-
-**Network and Web Security**
-
-![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-darkgreen?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat)
-
-**Defensive Security and Monitoring**
-
-![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-EF3B2D?style=flat)
-![fail2ban](https://img.shields.io/badge/fail2ban-red?style=flat)
-![iptables](https://img.shields.io/badge/iptables-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00BFFF?style=flat)
-
-**Languages and Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-**Platforms and Environments**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Documentation and Research**
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-> Skills marked without qualification are hands-on (built or used in real projects). Skills under "learning" headings are in active study.
-
----
-
-## Training and Education
-
-| Credential | Details | Status |
-|---|---|---|
-| BSc Computer Science and Engineering | Islamic University, Bangladesh | 🟡 In Progress |
-| TryHackMe Learning Paths | Network Fundamentals, Web Fundamentals, Jr Penetration Tester | 🟡 In Progress |
-| Hack The Box Labs | Starting Point, Linux Fundamentals | 🟡 In Progress |
-
-> *Verified certificates and course completions will be added here with links as they are earned. No unverified certificates are listed.*
-
----
-
-## GitHub Statistics
+<!-- THREAT INTELLIGENCE: SKILLS -->
+## `> sudo nmap --script=enum-skills`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Firahs&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Firahs)
+### 🔴 `OFFENSIVE SECURITY`
+<img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Exploit_Development-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Bug_Bounty-990000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Teaming-800000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-660000?style=for-the-badge&logo=osano&logoColor=white" />
+
+### 🔵 `DEFENSIVE SECURITY`
+<img src="https://img.shields.io/badge/Network_Security-0066FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/IDS_%2F_IPS-0055DD?style=for-the-badge&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/Incident_Response-0044BB?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Hardening-003399?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-002277?style=for-the-badge&logo=nessus&logoColor=white" />
+
+### 🟢 `LANGUAGES & TOOLS`
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/C++-00DD35?style=for-the-badge&logo=cplusplus&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/C-00BB29?style=for-the-badge&logo=c&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Bash-00991D?style=for-the-badge&logo=gnubash&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-007711?style=for-the-badge&logo=javascript&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/PHP-005505?style=for-the-badge&logo=php&logoColor=white" />
+
+### 🟡 `PLATFORMS & ENVIRONMENTS`
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
-## Contact
+<!-- ACTIVE MISSIONS -->
+## `> cat /var/log/active_missions.log`
 
-I am open to collaborating on cybersecurity projects, CTF teams, open-source security tooling, and research.
-
-| Channel | Link |
-|---|---|
-| GitHub | [github.com/Firahs](https://github.com/Firahs) |
-| LinkedIn | [linkedin.com/in/sharif-ahmed-40a260263](https://www.linkedin.com/in/sharif-ahmed-40a260263) |
-| Twitter / X | [@sharif032](https://twitter.com/sharif032) |
-| Medium | [@sa21iu.cse](https://medium.com/@sa21iu.cse) |
-| CV | [View Document](https://docs.google.com/document/d/10C6pjKo8_ZzvCptcBwYFdw6p4XpGe_FEqh79JQSq5zU/edit?usp=sharing) *(sign-in may be required)* |
+```
+ ╔═══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                         ║
+ ║   ███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗███████╗         ║
+ ║   ████╗ ████║██║██╔════╝██╔════╝██║██╔═══██╗████╗  ██║██╔════╝         ║
+ ║   ██╔████╔██║██║███████╗███████╗██║██║   ██║██╔██╗ ██║███████╗         ║
+ ║   ██║╚██╔╝██║██║╚════██║╚════██║██║██║   ██║██║╚██╗██║╚════██║         ║
+ ║   ██║ ╚═╝ ██║██║███████║███████║██║╚██████╔╝██║ ╚████║███████║         ║
+ ║   ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝         ║
+ ║                                                                         ║
+ ╠═══════════════════════════════════════════════════════════════════════════╣
+ ║                                                                         ║
+ ║   [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░]  50%  Advanced Penetration Testing           ║
+ ║   [▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  40%  Exploit Development Mastery            ║
+ ║   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  70%  Web App Security Research              ║
+ ║   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  90%  CTF Competition Dominance              ║
+ ║   [▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  60%  Security Tool Development              ║
+ ║   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  80%  Bug Bounty Hunting                     ║
+ ║                                                                         ║
+ ╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
+<!-- CTF & SECURITY PLATFORMS -->
+## `> curl -s https://api.cyberplatforms/status`
+
 <div align="center">
-<sub>MD. Shorif Mia · Islamic University, Bangladesh · Building in public since 2024</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏴‍☠️ TryHackMe
+<img src="https://img.shields.io/badge/TryHackMe-Active-00ff41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
+<br/>
+<sub><b>Learning & Practicing</b></sub>
+
+</td>
+<td align="center" width="33%">
+
+### 💀 Hack The Box
+<img src="https://img.shields.io/badge/HackTheBox-Active-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" />
+<br/>
+<sub><b>Machines & Challenges</b></sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 PortSwigger
+<img src="https://img.shields.io/badge/PortSwigger-Active-00ff41?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" />
+<br/>
+<sub><b>Web Security Academy</b></sub>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+<!-- GITHUB ANALYTICS -->
+## `> grep -r "analytics" /var/log/github/`
+
+<div align="center">
+
+<!-- Streak Stats -->
+<a href="https://github.com/Firahs">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Firahs&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ccaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=00ff4130" alt="GitHub Streak" />
+</a>
+&nbsp;
+<a href="https://github.com/Firahs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Firahs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ff41&icon_color=00ff41&ring_color=00ff41&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+<br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/Firahs">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firahs&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00ff41&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Firahs">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Firahs&bg_color=0d1117&color=00ff41&line=00ccaa&point=ffffff&area_color=00ff4130&area=true&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Encrypted%20Commit%20Log" alt="Activity Graph" />
+</a>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## `> python3 snake_contrib.py --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Firahs/Firahs/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Firahs/Firahs/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Firahs/Firahs/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- SECURITY PROJECTS -->
+## `> ls -la ~/projects/security/`
+
+<div align="center">
+
+<a href="https://github.com/Firahs?tab=repositories">
+  <img src="https://img.shields.io/badge/🔐_Senitel—IDS_%2F_IPS_System-0d1117?style=for-the-badge&logo=suricata&logoColor=00ff41" />
+</a>
+<br/>
+<sub>Intrusion Detection & Prevention System built with Suricata</sub>
+
+<br/><br/>
+
+<a href="https://github.com/Firahs?tab=repositories">
+  <img src="https://img.shields.io/badge/🏴_CTF_Writeups-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41" />
+</a>
+<br/>
+<sub>Solutions & methodologies from CTF competitions</sub>
+
+<br/><br/>
+
+<a href="https://github.com/Firahs?tab=repositories">
+  <img src="https://img.shields.io/badge/🛠️_Security_Tools-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+</a>
+<br/>
+<sub>Custom scripts and tools for security workflows</sub>
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+## `> gpg --list-keys certifications`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     CERTIFICATIONS & TRAINING                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🏆  Active CTF Competitor & Community Contributor               ║
+║  📚  Advanced Penetration Testing                                ║
+║  🔒  Web Application Security Specialist (in progress)           ║
+║  🛡️  Network Defense Strategies                                 ║
+║  🎓  BSc. in CSE — Islamic University, Bangladesh                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- CONNECT -->
+## `> ssh shorif@social-networks`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sharif-ahmed-40a260263">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/sharif032">
+  <img src="https://img.shields.io/badge/𝕏_Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@sa21iu.cse">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="https://github.com/Firahs">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Security Philosophy
+
+> *"Every system has a vulnerability. The question isn't if it can be breached,*
+> *but when — and how we prevent it before it happens."*
+
+<br/>
+
+### 🤝 Let's Collaborate On
+
+`Cybersecurity Projects` • `Bug Bounty Programs` • `CTF Teams` • `Security Research` • `Open Source Tools`
+
+</div>
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║    "In the world of cybersecurity, paranoia is just good engineering."  ║
+║                                                                        ║
+║                                             — Every Security Engineer  ║
+║                                                                        ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/THREAT_LEVEL-MONITORED-00ccaa?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FIREWALL-ACTIVE-00ff41?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+**`[  SYSTEM OPERATIONAL  |  ALL DEFENSES ACTIVE  |  MONITORING 24/7  ]`**
+
+<sub>⚡ Crafted with passion by <b>Shorif Mia</b> — Stay Secure, Stay Sharp 🔐</sub>
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:001a0a,50:0d1117,100:0a0a0a&section=footer" />
